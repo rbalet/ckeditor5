@@ -1,6 +1,6 @@
 {
-  "name": "@ultrastark/ckeditor5-build-letters",
-  "version": "0.0.5",
+  "name": "@ultrastark/ckeditor5-build-modal",
+  "version": "0.0.1",
   "description": "Formatted ck-editor used by the ultrastark cloud for the letter plugin",
   "keywords": [
     "megaphone",
